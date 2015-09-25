@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/wwayne/jsonapiExample",
   "dependencies": {
+    "jsonapi-serializer": "^2.0.2",
     "yayson": "^2.0.0"
   }
 }
