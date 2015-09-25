@@ -1,0 +1,22 @@
+{
+  "name": "jsonapi-example",
+  "version": "1.0.0",
+  "description": "Demo for application/vnd.api+json media type, serialization and reading in server and client",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wwayne/jsonapiExample.git"
+  },
+  "author": "wwayne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wwayne/jsonapiExample/issues"
+  },
+  "homepage": "https://github.com/wwayne/jsonapiExample",
+  "dependencies": {
+    "yayson": "^2.0.0"
+  }
+}
